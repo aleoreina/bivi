@@ -1,3 +1,10 @@
+# Bivi
+##### php/Codeigniter script which let to students download thesis of degree. Is a Virtual Library platform (Prototype)
+
+> Developed by Angel Reina (@aleoreina)
+
+OpenSource
+
 ### Features:
 - Spanish interface
 - Search prototype initial : This let search in form basic all thesis and work degree by category and year .. or both ways.
@@ -35,3 +42,7 @@ and set up
             'dbdriver' => 'mysqli',
 
 5) All must be done go to your base_url .. in my case is http://127.0.0.1
+
+License: MIT
+This projectg coming from a Real project of University: Called Biviuco
+
