@@ -22,6 +22,7 @@
 - Need a module to add, delete users
 - Need a roles permissions for users
 - All view need connect roles permissions for users.
+- Is needed enter in modular structure (backend code)
 
 ### Installation:
 1) Copy all files from /webapp/ to your root webspace (Make sure a empty root folder).
