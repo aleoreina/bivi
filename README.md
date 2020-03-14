@@ -1,9 +1,9 @@
 # Bivi
 ##### php/Codeigniter script which let to students download thesis of degree. Is a Virtual Library platform (Prototype)
 
-> Developed by Angel Reina (@aleoreina)
-
-OpenSource
+....
+![Bivi](https://github.com/aleoreina/bivi/blob/master/screenshots/Screenshot_2020-03-14%20BIVI-ResultSearch.png?raw=true)
+....
 
 ### Features:
 - Spanish interface
