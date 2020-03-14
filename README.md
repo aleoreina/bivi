@@ -43,6 +43,10 @@ and set up
 
 5) All must be done go to your base_url .. in my case is http://127.0.0.1
 
-License: MIT
-This projectg coming from a Real project of University: Called Biviuco
+### Donations
+You can send me a donation for me on my paypal:
+[Donate to Angel](https://paypal.me/aleoreina "Donate to Angel")
 
+## License
+** MIT **
+Check file: LICENSE
